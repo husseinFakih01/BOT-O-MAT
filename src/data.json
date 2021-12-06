@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "description": "do the dishes",
+    "eta": 1000
+  },
+  {
+    "id": 2,
+    "description": "sweep the house",
+    "eta": 3000
+  },
+  {
+    "id": 3,
+    "description": "do the laundry",
+    "eta": 10000
+  },
+  {
+    "id": 4,
+    "description": "take out the recycling",
+    "eta": 4000
+  },
+  {
+    "id": 5,
+    "description": "make a sammich",
+    "eta": 7000
+  },
+  {
+    "id": 6,
+    "description": "mow the lawn",
+    "eta": 20000
+  },
+  {
+    "id": 7,
+    "description": "rake the leaves",
+    "eta": 18000
+  },
+  {
+    "id": 8,
+    "description": "give the dog a bath",
+    "eta": 14500
+  },
+  {
+    "id": 9,
+    "description": "bake some cookies",
+    "eta": 8000
+  },
+  {
+    "id": 10,
+    "description": "wash the car",
+    "eta": 20000
+  }
+]

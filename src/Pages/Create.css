@@ -1,0 +1,51 @@
+/* Input forms */
+body {
+  background-color: black !important;
+}
+.create {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.create label {
+  text-align: left;
+  display: block;
+}
+
+.create h2 {
+  font-size: 20px;
+  color: red;
+  margin-bottom: 0px;
+}
+
+.create input,
+.create textarea,
+.create select {
+  width: 100%;
+  padding: 15px 10px;
+  margin: 3px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+
+.create button {
+  background: red;
+  color: #fff;
+  margin: 10px;
+  border: 0;
+  padding: 13px 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: large;
+}
+
+.text-in {
+  font-size: large;
+}
+
+.logo {
+  width: 200px;
+  height: auto;
+}
