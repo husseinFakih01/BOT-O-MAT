@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-#You can find the website at https://bot-o-mat0.netlify.app/
+## You can find the website at https://bot-o-mat0.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
